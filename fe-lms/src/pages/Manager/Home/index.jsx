@@ -22,28 +22,28 @@ export default function ManagerHome() {
             <section id="Stats" className="flex rounded-[30px] p-[30px] gap-[30px] bg-[#F8FAFB]">
                 <div className="grid grid-cols-2 w-[500px] gap-[30px]">
                     <div className="flex flex-col rounded-[20px] p-5 gap-5 bg-white shadow-[0_4px_4px_0_#E0E2EF]">
-                        <img src="assets/images/icons/profile-2user-purple.svg" className="w-[46px] h-[46px]" alt="icon"/>
+                        <img src="/assets/images/icons/profile-2user-purple.svg" className="w-[46px] h-[46px]" alt="icon"/>
                         <div>
                             <p className="font-extrabold text-2xl leading-[36px]">189,498</p>
                             <p className="text-[#838C9D]">Total Students</p>
                         </div>
                     </div>
                     <div className="flex flex-col rounded-[20px] p-5 gap-5 bg-white shadow-[0_4px_4px_0_#E0E2EF]">
-                        <img src="assets/images/icons/note-favorite-purple.svg" className="w-[46px] h-[46px]" alt="icon"/>
+                        <img src="/assets/images/icons/note-favorite-purple.svg" className="w-[46px] h-[46px]" alt="icon"/>
                         <div>
                             <p className="font-extrabold text-2xl leading-[36px]">7,221</p>
                             <p className="text-[#838C9D]">Total Courses</p>
                         </div>
                     </div>
                     <div className="flex flex-col rounded-[20px] p-5 gap-5 bg-white shadow-[0_4px_4px_0_#E0E2EF]">
-                        <img src="assets/images/icons/video-play-purple.svg" className="w-[46px] h-[46px]" alt="icon"/>
+                        <img src="/assets/images/icons/video-play-purple.svg" className="w-[46px] h-[46px]" alt="icon"/>
                         <div>
                             <p className="font-extrabold text-2xl leading-[36px]">893,891</p>
                             <p className="text-[#838C9D]">Video Content</p>
                         </div>
                     </div>
                     <div className="flex flex-col rounded-[20px] p-5 gap-5 bg-white shadow-[0_4px_4px_0_#E0E2EF]">
-                        <img src="assets/images/icons/note-purple.svg" className="w-[46px] h-[46px]" alt="icon"/>
+                        <img src="/assets/images/icons/note-purple.svg" className="w-[46px] h-[46px]" alt="icon"/>
                         <div>
                             <p className="font-extrabold text-2xl leading-[36px]">12,812</p>
                             <p className="text-[#838C9D]">Text Content</p>
